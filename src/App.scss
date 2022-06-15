@@ -1,3 +1,11 @@
-.starter {
-  font-size: 18px;
+.converter {
+  min-width: 300px;
+  max-width: 500px;
+  margin: 0 auto;
+
+  &__title {
+    text-align: center;
+  }
+
+
 }

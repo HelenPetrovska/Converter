@@ -90,9 +90,6 @@ export const CurrencyExchange: React.FC<Props> = ({
     setCurrentAmount(+event.target.value);
   };
 
-  // eslint-disable-next-line no-console
-  console.log(currencyFirst, currencySecond, amount, currentAmount);
-
   return (
     <>
       <select

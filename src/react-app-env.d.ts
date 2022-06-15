@@ -4,6 +4,4 @@ type Courses = {
   euroBuy: string,
   usdSale: string,
   euroSale: string,
-  btcBuy: string,
-  btcSale: string,
 };
